@@ -1,2 +1,5 @@
 # hello-world
-hello-world activity
+
+Hello, my name is Andrew
+
+I go to school at UW-Milwaukee for IST
